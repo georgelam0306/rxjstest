@@ -1,2 +1,0 @@
-# rxjstest
-Created with CodeSandbox
